@@ -51,3 +51,21 @@ This project was developed to simulate a real-world small business system and im
 
 ## Author
 Developed as a personal project for learning web development and database management.
+
+## Website pictures
+## Login Page 
+<img width="874" height="549" alt="Screenshot 2026-02-26 034413" src="https://github.com/user-attachments/assets/21bfc498-9f56-4fa0-b609-a7eda50e4c86" />
+## Dashboard Overview
+<img width="1533" height="901" alt="Screenshot 2026-02-26 034541" src="https://github.com/user-attachments/assets/04ac378b-a5d6-422c-8660-8842877cc38d" />
+## Add Product / Manage Product
+<img width="1513" height="859" alt="Screenshot 2026-02-26 034616" src="https://github.com/user-attachments/assets/2f33be1e-1b81-4fab-b9bb-3be6b35b4ed2" />
+## Add Sales
+<img width="1546" height="582" alt="Screenshot 2026-02-26 034638" src="https://github.com/user-attachments/assets/ec66a537-1734-47b5-bad7-9c41a06023d9" />
+## Sales Report
+<img width="1840" height="974" alt="Screenshot 2026-03-03 145351" src="https://github.com/user-attachments/assets/e1c5b2c7-1180-4cd8-ba33-943fcfef8168" />
+## Sales Charts
+<img width="1920" height="1080" alt="Screenshot 2026-03-03 112544" src="https://github.com/user-attachments/assets/30e31193-254a-4044-b6eb-047381268e61" />
+## PDF Report
+<img width="997" height="901" alt="Screenshot 2026-02-26 050333" src="https://github.com/user-attachments/assets/94f4b2cf-32ee-4799-9a01-5927470016ec" />
+
+
